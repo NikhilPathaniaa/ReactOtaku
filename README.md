@@ -11,7 +11,7 @@ This repository includes the following React.js projects, organized into separat
 
 1. **Project A:** Brand Page : .
    - screen shots
-   - ![Alt text](<public/images/Product Page.png>)
+   ![Alt text](<brand-page/public/images/Product Page.png>)
    - [Go to Project](./brand-page)
 
 
