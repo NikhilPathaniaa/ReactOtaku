@@ -9,9 +9,9 @@ Welcome to the React.js Projects Repository! This repository contains multiple R
 
 This repository includes the following React.js projects, organized into separate folders:
 
-1. **Project A:** Description of Project A.
+1. **Project A:** Brand Page : .
    - [Live Demo](https://example.com/project-a)
-   - [Source Code](./project-a)
+   - [Source Code](./brand-page/README.md)
 
 
 Feel free to explore the other projects as well by navigating to their respective folders and following the same installation and usage instructions.
