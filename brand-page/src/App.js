@@ -1,12 +1,12 @@
 import './App.css';
-import Navbar from './components/Navbar';
-import Slider from './components/Slider';
+import Navigation from './components/Navigation.js';
+import HeroSection from './components/HEroSection';
 
 function App() {
   return (
     <>
-      <Navbar/>      
-      <Slider/>
+      <Navigation />
+      <HeroSection />
     </>
   );
 }
