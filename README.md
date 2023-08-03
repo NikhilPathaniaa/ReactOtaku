@@ -14,6 +14,7 @@ This repository includes the following React.js projects, organized into separat
 <p align="center">
   <img src="/brand-page/public/images/Product Page.png" alt="Image" width="500" height="300">
 </p>
+
    - [Go to Project](./brand-page)
 
 
