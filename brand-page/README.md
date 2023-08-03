@@ -1,4 +1,4 @@
-# Project 1 : Brand Page By nikhil Pathania :hear_no_evil: :hear_no_evil:
+# Project 1 : Brand Page By nikhil Pathania ❤️❤️
 # Project using React, HTML, CSS
 
 ![Alt text](<public/images/Product Page.png>)
@@ -12,7 +12,6 @@ This repository contains a simple and basic project that demonstrates the use of
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -31,10 +30,6 @@ The project serves as an excellent starting point for beginners who want to get 
 The project includes the following features:
 
 1. **Homepage:** A landing page that introduces the project and provides an overview of its functionalities.
-
-2. **Interactive Components:** Several React components are used to showcase interactivity, such as buttons, sliders, and input fields.
-
-3. **Responsive Design:** The application is designed to be responsive, ensuring a seamless user experience across different devices and screen sizes.
 
 ## Installation
 
@@ -71,10 +66,6 @@ This will launch the application in your default web browser. You can interact w
 ## Contributing
 
 Contributions to this project are welcome! If you find any bugs or have ideas for improvements, feel free to open an issue or submit a pull request. Please make sure to follow our [code of conduct](CODE_OF_CONDUCT.md) during the contribution process.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
