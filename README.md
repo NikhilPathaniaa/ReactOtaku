@@ -11,7 +11,6 @@ This repository includes the following React.js projects, organized into separat
 
 1. **Project A:** Brand Page : .
    - screen shots
-   ![Alt text](<brand-page/public/images/Product Page.png>)
 <p align="center">
   <img src="/brand-page/public/images/Product Page.png" alt="Image" width="500" height="300">
 </p>
