@@ -1,6 +1,5 @@
 # Getting Started with Create React App
-
-![](images/ProductPage.png)
+![Alt text](<public/images/Product Page.png>)
 
 ## Available Scripts
 
