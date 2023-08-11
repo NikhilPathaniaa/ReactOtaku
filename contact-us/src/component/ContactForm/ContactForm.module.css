@@ -3,7 +3,7 @@
     max-width: 1000px;
     margin: 0 auto;
     margin-top: 40px;
-    align-items: end;
+    align-items: flex-end;
   }
   .top_btn {
     display: flex;
