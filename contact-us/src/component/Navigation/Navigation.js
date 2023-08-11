@@ -4,7 +4,7 @@ function Navigation(props){
     return (
         <nav className={`${styles.navigation} container`}>
             <div>
-                <img style={{height:"72px", width:"72px" }} src="./images/3-14.jpg" alt="logo"/>
+                <img style={{height:"72px", width:"72px", borderRadius:"50%" }} src="./images/3-14.jpg" alt="logo"/>
             </div>
             <ul>
                 <li>{props.title1}</li>
