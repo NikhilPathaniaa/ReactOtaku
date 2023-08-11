@@ -3,15 +3,20 @@ import styles from "./ContactForm.module.css";
 import { MdMessage } from "react-icons/md";
 import { FaPhoneAlt } from "react-icons/fa";
 import { HiMail } from "react-icons/hi";
-// import { useState } from "react";
+import { useState } from "react";
 
 const ContactForm = () => {
 
+    const [name, setName] = useState("Nikhil");
+    const [email, setEmail] = useState("nikhilpathania1990@gmail.com");
+    const [text, setText] = useState("This web project in made by a Reaper");
+
     const onSubmit = (event) => {
         event.preventDefault();
-        console.log ("name: ",event.target[0].value);
-        console.log ("email: ",event.target[1].value);
-        console.log ("text: ",event.target[2].value);
+
+        setName(event.target[0].value);
+        setEmail(event.target[1].value);
+        setText(event.target[2].value);
     };
 
   return (
@@ -51,6 +56,7 @@ const ContactForm = () => {
           >
             <Button text="SUBMIT BUTTON" />
           </div>
+          <div>{name + " " + email + " " + text}</div>
         </form>
       </div>
       <div className={styles.contact_image}>
