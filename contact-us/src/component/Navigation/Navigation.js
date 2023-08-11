@@ -1,7 +1,6 @@
 import styles from "./Navigation.module.css";
 
 function Navigation(props){
-    console.log(styles);
     return (
         <nav className={`${styles.navigation} container`}>
             <div>
