@@ -18,8 +18,27 @@ function ContactForm() {
                 text="VIA MAIL FORM" 
                 icon={<HiMail fontSize="24px"/>}
             />
-        </div>
 
+            <form>
+                <div className={styles.form_control}>
+                    <label htmlFor="name">Name</label>
+                    <input type="text" name="name" />
+                </div>
+                <div className={styles.form_control}>
+                    <label htmlFor="email">Email</label>
+                    <input type="email" name="name" />
+                </div>
+                <div className={styles.form_control}>
+                    <label htmlFor="text">Text</label>
+                    <textarea name="text" rows="8"/>
+                </div>
+                <div style={{display: "flex", justifyContent: 'end',}}>
+                    <Button text="SUBMIT" />
+                </div>
+                
+            </form>
+        </div>
+            <img src="./images/contact.svg" alt="contact image"/>
         <div className={styles.Contact_image}>
 
         </div>

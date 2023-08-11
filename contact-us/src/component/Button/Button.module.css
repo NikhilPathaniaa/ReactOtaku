@@ -8,6 +8,7 @@
     gap: 8px;
     min-width: 220px;
     justify-content: center;
+    cursor: pointer;
 }
 .outline_btn{
     padding: 18px 10px;
@@ -21,4 +22,5 @@
     justify-content: center;
     background-color: white;
     width: 100%;
+    cursor: pointer;
 }
