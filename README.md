@@ -20,7 +20,7 @@ This repository includes the following React.js projects, organized into separat
 2. **Project B:** Contact Us : .
    - screen shots
 <p align="center">
-  <img src="/contact-us/public/images/Product Page.png" alt="Image" width="500" height="300">
+  <img src="/contact-us/public/images/Contact page.png" alt="Image" width="500" height="300">
 </p>
 
    - [Go to Project](./contact-us)
