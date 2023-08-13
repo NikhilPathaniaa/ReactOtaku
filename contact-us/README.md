@@ -1,5 +1,5 @@
 # Project 1 : Contact Us By nikhil Pathania ❤️❤️
-# Project using React, HTML, CSS,( Props, State, useState Hook)
+# Project using HTML, CSS, React ( Props, State, useState Hook)
 
 ![Alt text](<public/images/Contact page.png>)
 
